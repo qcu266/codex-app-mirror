@@ -1,0 +1,17 @@
+{
+    "schemaVersion":  1,
+    "app":  "OpenAI.Codex",
+    "artifacts":  [
+                      {
+                          "version":  "26.623.5546.0",
+                          "channel":  "stable",
+                          "platform":  "windows",
+                          "architecture":  "amd64",
+                          "storageId":  "github-release",
+                          "path":  "codex-26.623.5546.0/OpenAI.Codex_26.623.5546.0_x64__2p2nqsd0c76g0.Msix",
+                          "sha256":  "b1ce0998c1f3000468f57624d68b7f82d6f333d0382d70198b9d5ba53020fdfa",
+                          "sizeBytes":  671037642,
+                          "releasedAt":  "2026-06-28T18:05:46Z"
+                      }
+                  ]
+}
